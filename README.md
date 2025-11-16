@@ -1,6 +1,6 @@
 📄 Submission Statement
 
-This project titled “Room Automation System Using Cisco Packet Tracer” is submitted by Group 4 as part of the Applied Industrial Internet of Things (IIoT) coursework.
+This project titled “Smart City IoT Simulation Project (Cisco Packet Tracer)” is submitted by Group 4 as part of the Applied Industrial Internet of Things (IIoT) coursework.
 
 👥 Group 5 Members
 

@@ -44,3 +44,6 @@ and monitoring in modern urban environments.
 - Automated responses based on sensor input
 
 ---
+
+
+![Network Diagram](Network_diagram.png.jpg)

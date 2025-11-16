@@ -10,7 +10,7 @@ Murlidhar Thakur – Roll No. 2410996774
 Pallak – Roll No. 2410996775
 Prateek - RollNo. 241099096777
 
-We hereby declare that the work presented in this submission is original, completed collaboratively by Group 3, and prepared in accordance with the guidelines provided.
+We hereby declare that the work presented in this submission is original, completed collaboratively by Group 4, and prepared in accordance with the guidelines provided.
 
 
 # Smart City IoT Simulation Project (Cisco Packet Tracer)

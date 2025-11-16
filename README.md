@@ -1,3 +1,18 @@
+📄 Submission Statement
+
+This project titled “Room Automation System Using Cisco Packet Tracer” is submitted by Group 4 as part of the Applied Industrial Internet of Things (IIoT) coursework.
+
+👥 Group 5 Members
+
+Lakshay – Roll No. 2410996772
+Manpreet– Roll No. 2410996773
+Murlidhar Thakur – Roll No. 2410996774
+Pallak – Roll No. 2410996775
+Prateek - RollNo. 241099096777
+
+We hereby declare that the work presented in this submission is original, completed collaboratively by Group 3, and prepared in accordance with the guidelines provided.
+
+
 # Smart City IoT Simulation Project (Cisco Packet Tracer)
 
 This repository contains an IoT-based Smart City simulation built using Cisco Packet Tracer. 

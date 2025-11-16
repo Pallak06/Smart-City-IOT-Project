@@ -4,11 +4,11 @@ This project titled “Smart City IoT Simulation Project (Cisco Packet Tracer)�
 
 👥 Group 5 Members
 
-Lakshay – Roll No. 2410996772
-Manpreet– Roll No. 2410996773
-Murlidhar Thakur – Roll No. 2410996774
-Pallak – Roll No. 2410996775
-Prateek - RollNo. 241099096777
+Lakshay – Roll No. 2410996772, 
+Manpreet– Roll No. 2410996773, 
+Murlidhar Thakur – Roll No. 2410996774, 
+Pallak – Roll No. 2410996775, 
+Prateek - RollNo. 241099096777, 
 
 We hereby declare that the work presented in this submission is original, completed collaboratively by Group 4, and prepared in accordance with the guidelines provided.
 
